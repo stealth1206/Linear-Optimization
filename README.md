@@ -1,3 +1,3 @@
 # Linear-Optimization
 
-Understanding Simplex Methods
+Understanding Basics of Linear Optimization
